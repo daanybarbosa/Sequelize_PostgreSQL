@@ -1,0 +1,1 @@
+https://dev.to/fs_pauloo/iniciando-projeto-nodejs-com-orm-sequelize-516h
